@@ -34,7 +34,7 @@ It reduces manual searching time and improves file retrieval performance.
 ## ▶ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/File-Management-System.git
+   git clone https://github.com/JeyaPrawinRaj/File-Management-System.git
 
 2. Open the project in any Java IDE (Eclipse / IntelliJ / VS Code)
 
